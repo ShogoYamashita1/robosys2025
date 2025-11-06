@@ -8,10 +8,16 @@
   - テスト済みバージョン: 3.7〜3.14
 
 ## 使い方
-```bash
+```bash:リポジトリをクローン
 $ git clone git@github.com:ShogoYamashita1/robosys2025.git
+```
+```bash:リポジトリに移動
 $ cd robosys2025
+```
+```bash:コマンドの実行例
 $ seq 5 | ./plus
+```
+```bash:実行結果
 15
 ```
 
