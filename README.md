@@ -8,12 +8,12 @@
   - テスト済みバージョン: 3.7〜3.14
 
 ## 使い方
-'''bash
+```bash
 $ git clone git@github.com:ShogoYamashita1/robosys2025.git
 $ cd robosys2025
 $ seq 5 | ./plus
 15
-'''
+```
 
 ## テスト環境
 - Ubuntu 24.04 LTS
